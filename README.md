@@ -39,3 +39,4 @@ This part was really quick and simple. I think it's pretty neat that the dimensi
 
 ###### <a href="https://cvilleschools.onshape.com/documents/fe0f2dbb14d1e4843598d2b3/w/76d1a63f938db24022943733/e/b648b0517070f94e73f5bcc1" >Link to Part</a>
 
+It's really cool how sketches can be extruded and revolved with multiple closed shapes! Using Onshape, it makes me wonder why SolidWorks is so picky about the single closed shape thing. The way Onshape is set up makes much more sense and it cuts out the extra time it takes to trim the lines into one shape. 
