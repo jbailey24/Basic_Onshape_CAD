@@ -31,4 +31,4 @@ As I've been doing this more, I find I'm able to get into a rhythm of making and
 
 ###### <a href="https://cvilleschools.onshape.com/documents/fe0f2dbb14d1e4843598d2b3/w/76d1a63f938db24022943733/e/311443b22c73cc190e1f36ce" >Link to Part</a> 
 
-This part was really quick and simple. I think it's pretty neat that the dimension tool allows you to dimension by the diameter instead of the radius if you want to. 
+This part was really quick and simple. I think it's pretty neat that the dimension tool allows you to dimension by the diameter as well as the radius. 
