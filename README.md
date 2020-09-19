@@ -15,3 +15,4 @@
 
  ###### <a href="https://cvilleschools.onshape.com/documents/fe0f2dbb14d1e4843598d2b3/w/76d1a63f938db24022943733/e/985718ce75dd860efacd4be5" >Link to Part</a> 
  
+I have similar comments as I had for the last part. One thing that I will note is that it would have taken me a bit of searching to find the variable button (on Chromebooks it's hidden under a dropdown menu), so I'm glad that was pointed out - global variables (or are they just called variables in Onshape) are a very helpful tool to have. 
