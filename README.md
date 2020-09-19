@@ -47,4 +47,12 @@ It's really cool how sketches can be extruded and revolved with multiple closed 
 
 ###### <a href="https://cvilleschools.onshape.com/documents/fe0f2dbb14d1e4843598d2b3/w/76d1a63f938db24022943733/e/58a86b154ef290f476c50f0e" >Link to Part</a>
 
-Very simple parts, but can I just say, I'm having a great time chosing a color palette for this caster. Also, fun fact that I accidentally learned, you can turn on the construction tool while using the "use" feature. It made my sketch look much neater when I was centering the hole in the collar. 
+Very simple parts, but can I just say, I'm having a great time chosing a color palette for this caster. Also, fun fact that I accidentally learned, you can turn on the construction tool while using the "use" feature. It made my sketch look much neater when I was centering the hole in the collar.
+
+### Wheel and Axle Assembly
+
+<img src="https://i.ibb.co/rQDpCsp/Screenshot-2020-09-19-at-2-48-28-PM.png" alt="Wheel and Axle Assembly" width="350">
+
+###### <a href="https://cvilleschools.onshape.com/documents/fe0f2dbb14d1e4843598d2b3/w/76d1a63f938db24022943733/e/9359a0ee87fe06d7ebd1ffea">Link to Assembly</a>
+
+The Onshape's mating system is definitely interesting. Clicking on the correct mate connector was a bit tricky, esspecially on the wheel, but overall it made sense. The animate feature was super fun (and presumably useful in the future too).
