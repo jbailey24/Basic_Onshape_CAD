@@ -39,4 +39,12 @@ This part was really quick and simple. I think it's pretty neat that the dimensi
 
 ###### <a href="https://cvilleschools.onshape.com/documents/fe0f2dbb14d1e4843598d2b3/w/76d1a63f938db24022943733/e/b648b0517070f94e73f5bcc1" >Link to Part</a>
 
-It's really cool how sketches can be extruded and revolved with multiple closed shapes! Using Onshape, it makes me wonder why SolidWorks is so picky about the single closed shape thing. The way Onshape is set up makes much more sense and it cuts out the extra time it takes to trim the lines into one shape. 
+It's really cool how sketches can be extruded and revolved with multiple closed shapes! Using Onshape, it makes me wonder why SolidWorks is so picky about the single closed shape thing. The way Onshape is set up makes much more sense and it cuts out the extra time it takes to trim the lines into one shape.
+
+### Axle, Collar, and Bearings
+
+<img src="https://i.ibb.co/1dGFrJn/Screenshot-2020-09-19-at-2-21-39-PM.png" alt="Axle, Collar, and Bearing" width="350"><img src="https://i.ibb.co/2gYdnQd/Screenshot-2020-09-19-at-2-20-42-PM.png" alt="Bearing and Wheel" width="325">
+
+###### <a href="https://cvilleschools.onshape.com/documents/fe0f2dbb14d1e4843598d2b3/w/76d1a63f938db24022943733/e/58a86b154ef290f476c50f0e" >Link to Part</a>
+
+Very simple parts, but can I just say, I'm having a great time chosing a color palette for this caster. Also, fun fact that I accidentally learned, you can turn on the construction tool while using the "use" feature. It made my sketch look much neater when I was centering the hole in the collar. 
