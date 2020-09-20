@@ -59,7 +59,7 @@ The Onshape's mating system is definitely interesting. Clicking on the correct m
 
 ### Final Assembly 
 
-<img src="https://i.ibb.co/dtZ718G/Screenshot-2020-09-19-at-8-16-40-PM.png" alt="Final Assembly" width="350">
+<img src="https://i.ibb.co/dtZ718G/Screenshot-2020-09-19-at-8-16-40-PM.png" alt="Final Assembly" width="400">
 
 ###### <a href="https://cvilleschools.onshape.com/documents/fe0f2dbb14d1e4843598d2b3/w/76d1a63f938db24022943733/e/3edcca363c9102b8d88b8ea4">Link to Assembly</a>
 
