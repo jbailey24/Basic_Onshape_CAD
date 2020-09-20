@@ -56,3 +56,11 @@ Very simple parts, but can I just say, I'm having a great time chosing a color p
 ###### <a href="https://cvilleschools.onshape.com/documents/fe0f2dbb14d1e4843598d2b3/w/76d1a63f938db24022943733/e/9359a0ee87fe06d7ebd1ffea">Link to Assembly</a>
 
 The Onshape's mating system is definitely interesting. Clicking on the correct mate connector was a bit tricky, esspecially on the wheel, but overall it made sense. The animate feature was super fun (and presumably useful in the future too).
+
+### Final Assembly 
+
+<img src="https://i.ibb.co/dtZ718G/Screenshot-2020-09-19-at-8-16-40-PM.png" alt="Final Assembly" width="350">
+
+###### <a href="https://cvilleschools.onshape.com/documents/fe0f2dbb14d1e4843598d2b3/w/76d1a63f938db24022943733/e/3edcca363c9102b8d88b8ea4">Link to Assembly</a>
+
+All done! I had some trouble getting the pins in place, but other than that it went smoothly. I really like how all of my parts and assemblies are in the same document. It makes it easy to switch between all the parts and it means that my Onshape home page isn't cluttered up with a bunch of documents. Overall, Onshape seems like a fun, intuitive, and effective program, and I'm glad I'll be able to branch out from SolidWorks a bit.
