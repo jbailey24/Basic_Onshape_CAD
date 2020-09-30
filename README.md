@@ -1,4 +1,13 @@
 # Basic Onshape CAD
+## Picture Frame
+
+<img src="https://i.ibb.co/rtHwh15/Screenshot-2020-09-30-at-1-38-26-PM.png" alt="Front" width="320"><img src="https://i.ibb.co/xLtm0wQ/Screenshot-2020-09-30-at-1-44-54-PM.png" alt="Back" width="180"><img src="https://i.ibb.co/j5pRL60/Screenshot-2020-09-30-at-1-43-41-PM.png" alt="Transparent" width="330">
+
+###### <a href="https://cvilleschools.onshape.com/documents/30fb8c242543d1f8686f361b/w/b99bcf393b6c21851f06f52a/e/9cf5b4541faed18eece236da">Link to Part</a>
+
+<p>Configurations are definitely a lot easier to access and use in Onshape. It’s great that you can make and edit the configurations in one tab. I will admit that the mating feature is starting to get on my nerves. Yes, in SolidWorks it takes a few more clicks, but at least I can do it efficiently. In Onshape, I had to click on each mate connector several times before it registered and mating the second pin in the joints required rotating the frame piece on the secondary axis to reach the correct mate connectors instead of just clicking and rotating the piece. However, I’m still just starting out, and who knows, I could turn out to like it in the end.</p> 
+<p>After I assembled everything, I wanted to add a bit of interest to the frame, so I chamfered the inside front edge and added an extruded rectangle on the back. To do this, I was just going to add those features to my frame part, but the way I assembled the frame, two of the pieces were facing backwards. Instead of redoing all of those mates to turn the pieces around, I decided it would be more fun to add another configuration for “side 1” and “side 2”. I made the chamfer and extrusion on both sides, and then suppressed them accordingly to make two mirrored configurations. Then, I just went into the assembly, double clicked on the frame pieces I wanted to rotate, and clicked change configuration. It was perhaps not the most efficient way to do that, but oh well, now my frame looks nice.</p>
+
 
 ## Caster
 ### Base
