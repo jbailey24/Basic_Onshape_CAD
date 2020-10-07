@@ -1,4 +1,14 @@
 # Basic Onshape CAD
+## Onshape Challenge
+
+<img src="https://i.ibb.co/qFmGWKj/Screenshot-2020-10-07-at-1-40-05-PM.png" alt="Assembly" width="300">
+
+###### <a href="https://cvilleschools.onshape.com/documents/d5e497528f64876f7c6ebf7a/w/939d91f251b90ad1af88cc44/e/af210cc7bc16c5a3fd5d6256">Link to Part</a>
+
+I couldn't find the thin feature tool in Onshape, even after doing some googling, so I just decided to make the bracket the old fashioned way, which was time consuming, but not difficult. It also took me a couple of tries to figure out that to mate the assembly correctly; I had to use cylindrical mates on the spinner shafts instead of revolute mates. Otherwise everything went smoothly. 
+
+EDIT: Figured out how to do thin feature! Wow, I saw how to make surfaces and how to use the thicken tool, but didn't connect the dots until class. Oops :/ I don't feel like going back and changing the bracket now, but I added a fourth part as an example of thin feature.
+
 ## Picture Frame
 
 <img src="https://i.ibb.co/rtHwh15/Screenshot-2020-09-30-at-1-38-26-PM.png" alt="Front" width="320"><img src="https://i.ibb.co/xLtm0wQ/Screenshot-2020-09-30-at-1-44-54-PM.png" alt="Back" width="180"><img src="https://i.ibb.co/j5pRL60/Screenshot-2020-09-30-at-1-43-41-PM.png" alt="Transparent" width="330">
